@@ -18,4 +18,4 @@ A translation of the Drupal 8 user interface text into simple english.
 ## To enable the language
 
 1. Go to configuration/regional and language/languages
-2. Enable Simple English
+2. Make "Simple English" the default language
