@@ -8,7 +8,7 @@ Simple English for Drupal 8 has two goals:
 1. To provide a simpler version of Drupal interface text that is more accessible to non-technical users, and users who do not speak English as a first language (like Simple English Wikipedia). 
 2. To provide a test-bed for possible future global changes to Drupal interface test to make it more understandable to all users.
 
-## To install simple english Drupal 8 interface translations on your site:
+### To install simple english Drupal 8 interface translations:
 
 1. Instal Drupal 8
 2. Open the menu tab and select "extend"
@@ -22,7 +22,7 @@ Simple English for Drupal 8 has two goals:
 10. Under "Language name" type "Simple English"
 6. Finish by clicking "Add custom language"
 
-## To enable interface language detection and selection
+### To enable interface language detection and selection
 
 1. Go to configuration/langages
 2. Enable "Customize Content language detection to differ from Interface text language detection settings"
