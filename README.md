@@ -22,12 +22,7 @@ Simple English for Drupal 8 has two goals:
 10. Under "Language name" type "Simple English"
 6. Finish by clicking "Add custom language"
 
-## To enable the language
-
-1. Go to configuration/regional and language/languages
-2. Make "Simple English" the default language (if you want to enable it globally)
-
-## To enable it for certain users
+## To enable interface language detection and selection
 
 1. Go to configuration/langages
 2. Enable "Customize Content language detection to differ from Interface text language detection settings"
