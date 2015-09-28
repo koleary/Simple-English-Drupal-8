@@ -4,6 +4,7 @@ A translation of the Drupal 8 user interface text into simple english.
 ##Rationale
 
 Simple English for Drupal 8 has two goals:
+
 1. To provide a simpler version of Drupal interface text that is more accessible to non-technical users, and users who do not speak English as a first language (like Simple English Wikipedia). 
 2. To provide a test-bed for possible future global changes to Drupal interface test to make it more understandable to all users.
 
